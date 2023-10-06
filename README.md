@@ -3,7 +3,7 @@
 
 *Soy alumno del colegio **IMPA TRQ N°7***
 
-*Mi curso es **7to 2da Aviónica***
+*Mi curso es **7mo 2da Aviónica***
 
 *Vivo en **Buenos Aires, Argentina***
 
